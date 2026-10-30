@@ -7,11 +7,6 @@ About 22% of cardholders default. Missing a default costs money; wrongly flaggin
 
 ## 📊 Data
 This project uses the public **Default of Credit Card Clients** dataset (2005).
-
-1. Download it from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients) or [Kaggle](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset).
-2. Save it in this folder as `UCI_Credit_Card.csv`.
-3. Run `notebooks/credit_default.ipynb`.
-
 - 30,000 Taiwanese accounts
 - 6 months of repayment status, bill amounts, and payments (Apr–Sep 2005), plus credit limit and demographics
 - Target: default in October 2005 (77.9% / 22.1% split)
