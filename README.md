@@ -46,7 +46,7 @@ This project uses the public **Default of Credit Card Clients** dataset (2005).
 ├── data/            # instructions to download the UCI dataset
 ├── notebooks/       # EDA, modeling, evaluation
 ├── images/          # ROC curves, feature importance
-├── report/          # full write-up (PDF)
+├── report/          # full write-up for hypothetical finance company(PDF)
 ├── requirements.txt
 └── README.md
 ```
